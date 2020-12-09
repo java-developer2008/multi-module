@@ -12,6 +12,7 @@
         <module>ui1</module>
         <module>ui2</module>
         <module>ui3</module>
+        <module>ui4</module>
     </modules>
 
     <dependencyManagement>

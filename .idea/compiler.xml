@@ -9,7 +9,11 @@
         <module name="ui1" />
         <module name="ui2" />
         <module name="ui3" />
+        <module name="ui4" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ui4" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
